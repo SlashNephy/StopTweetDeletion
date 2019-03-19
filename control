@@ -1,0 +1,11 @@
+Author: Slash Nephy <slash@nephy.jp>
+Maintainer: Slash Nephy <slash@nephy.jp>
+Name: Stop Tweet Deletion
+Package: jp.nephy.stoptweetdeletion
+Depends: mobilesubstrate
+Section: Tweaks
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: [iOS 11] Prevent feather from removing tweets which author deleted.
+Homepage: https://github.com/SlashNephy/StopTweetDeletion
+Tag: purpose::extension
